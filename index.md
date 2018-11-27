@@ -8,10 +8,10 @@ My name is Matt Mauzy and I am originally from Cheyenne, Wyoming.
 I have my Bachelor's in Computer Science with a minor in Applied Mathematics.
 I attended Southern New Hampshire University and graduated at the end of 2018. 
 
-### Software Engineering Project
-## Down below is some Python code for a weather station.
-## This project uses a Raspberry Pi, Grove Pi, JSON and a lot of sensors.
-## This project was done for a class on Emerging System Architecture and Technology.
+## Software Engineering Project
+### Down below is some Python code for a weather station.
+### This project uses a Raspberry Pi, Grove Pi, JSON and a lot of sensors.
+### This project was done for a class on Emerging System Architecture and Technology.
 
 ```
 # Connect the Grove Light Sensor to analog port A0
