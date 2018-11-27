@@ -1,12 +1,12 @@
 ## Welcome to Matt Mauzy's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MrMauzy/MrMauzy.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My main GitHub page can be found [here] (https://github.com/mrmauzy).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Little About Me
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is Matt Mauzy and I am originally from Cheyenne, Wyoming. 
+I have my Bachelor's in Computer Science with a minor in Applied Mathematics.
+I attended Southern New Hampshire University and graduated at the end of 2018. 
 
 ```markdown
 Syntax highlighted code block
