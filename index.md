@@ -1,6 +1,6 @@
 ## Welcome to Matt Mauzy's GitHub Pages
 
-My main GitHub page can be found [here] (https://github.com/mrmauzy).
+My main GitHub page can be found [here](https://github.com/mrmauzy).
 
 ### Little About Me
 
@@ -9,59 +9,12 @@ I have my Bachelor's in Computer Science with a minor in Applied Mathematics.
 I attended Southern New Hampshire University and graduated at the end of 2018.  
 
 ## Software Engineering Project
-### Down below is some Python code for a weather station.
-### This project uses a Raspberry Pi, Grove Pi, JSON and a lot of sensors.
-### This project was done for a class on Emerging System Architecture and Technology.
+### Down below is a Python function for a weather station.
+### Find the whole code [here](https://github.com/MrMauzy/Weather-Station)
+### This project uses a Raspberry Pi, Grove Pi, JSON and a lot of different sensors.
+### This was done for a class on Emerging System Architecture and Technology at SNHU.
 
 ```
-# Connect the Grove Light Sensor to analog port A0
-# SIG,NC,VCC,GND
-light_sensor = 0
-
-# Temp / humidity Sensor is attached to port 7
-dht_sensor_port = 7
-dht_sensor_type = 0
-
-# Connect the LED to digital port D4
-# SIG,NC,VCC,GND
-# Blue, Green and Red LED's
-BLed = 4
-GLed = 5
-RLed = 6
-
-
-# Turn on LED once sensor exceeds threshold resistance
-threshold = 15
-
-grovepi.pinMode(light_sensor, "INPUT")
-grovepi.pinMode(BLed, "OUTPUT")
-grovepi.pinMode(GLed, "OUTPUT")
-grovepi.pinMode(RLed, "OUTPUT")
-
-outputData = []
-
-# I had to add these extra sleep functions to stop the NAN errors
-sleep(.1)
-
-while True:
-
-    def lights():
-        grovepi.digitalWrite(GLed, 0)
-        grovepi.digitalWrite(BLed, 0)
-        grovepi.digitalWrite(RLed, 0)
-
-
-    try:
-        sleep(0.5)
-        # Get sensor value
-        sensor_value = grovepi.analogRead(light_sensor)
-
-        # Calculate resistance of sensor in K
-        if sensor_value <= 0: # stops dividing by 0 errors
-            resistance = 0
-        else:
-            resistance = float(1023 - sensor_value) * 10 / sensor_value
-
         # If Light is on, records data
         if resistance > threshold:
             # Send HIGH to switch off LED
@@ -89,24 +42,10 @@ while True:
             # Sends data to the global array
             outputData.append([t, h])
 
-        # Sleeps for 1800 seconds, or 30 minutes
-        sleep(1800)
-
-    except IOError:
-        print("Error")
-
-    except KeyboardInterrupt:
-        print("Program Terminated by User!!!") # Takes keyboard interrupt and ends
-        # Turns off lights ones program stops
-        lights()
-        # Ends program
-        break
-    
-
-# Setting up to save the data to outputData text file
-with open('outputData.json', 'a') as outfile:
-    json.dump(outputData, outfile)
 ```
+
+### This function will tell if a light is on (to simulate day time) and then record and display different
+### LED's depending on what the temperature and humidity readings are. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
