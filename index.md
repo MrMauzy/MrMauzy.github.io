@@ -11,7 +11,7 @@ I attended Southern New Hampshire University and graduated at the end of 2018.
 ## Software Engineering Project
 ### Down below is a Python function for a weather station.
 ### Find the whole code [here](https://github.com/MrMauzy/Weather-Station)
-### This project uses a Raspberry Pi, Grove Pi, JSON and a lot of different sensors.
+### This weather station project uses a Raspberry Pi, Grove Pi, JSON and a lot of different sensors.
 ### This was done for a class on Emerging System Architecture and Technology at SNHU.
 
 ```
@@ -44,8 +44,7 @@ I attended Southern New Hampshire University and graduated at the end of 2018.
 
 ```
 
-### This function will tell if a light is on (to simulate day time) and then record and display different
-### LED's depending on what the temperature and humidity readings are. 
+### This function will tell if a light is on (to simulate day time) and then record and display different LED's depending on what the temperature and humidity readings are. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
