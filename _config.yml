@@ -1,5 +1,3 @@
-name: Hank Quinlan, Horrible Cop
-markdown: kramdown
+name: Matt Mauzy, Programmer
 permalink: /blog/:year/:month/:day/:title
-
 theme: jekyll-theme-architect
