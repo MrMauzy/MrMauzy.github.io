@@ -1,6 +1,6 @@
 ## Hello, I am a Computer Science Graduate based in Springfield, Missouri. I have always love creating art from 3D Animation to hand drawn cartoons. I fell in love with software development and I hope you stick around and see what I have made. 
 
-![useful image]({{ site.url }}/images/cards.jpg){:height="700px" width="400px"}
+![useful image]({{ site.url }}/images/cards.jpg){:height="400px" width="400px"}
 
 ## My main GitHub page can be found [here](https://github.com/mrmauzy).
 
