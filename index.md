@@ -12,13 +12,13 @@ What you happen to be looking at is my portfolio, this showcases the skills I ha
 
 ## Blog
 ![useful image]({{ site.url }}/images/pen.jpg){:height="200px" width="900px"}
-My main GitHub page can be found [here](https://mrmauzy.github.io/blog).
+Enter my blog at your own risk [here](https://mrmauzy.github.io/blog).
 
 ## About
-My main GitHub page can be found [here](https://mrmauzy.github.io/about).
+Find out a a little more about me [here](https://mrmauzy.github.io/about).
 
 ## Projects
-My main GitHub page can be found [here](https://mrmauzy.github.io/projects).
+All of my listed projects are [here](https://mrmauzy.github.io/projects).
 
 ## Resume
-My main GitHub page can be found [here](https://mrmauzy.github.io/cv).
+See my resume [here](https://mrmauzy.github.io/cv).
