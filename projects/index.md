@@ -2,7 +2,7 @@
 
 ## Software Engineering Project
 ### Down below is a Python function for a weather station. 
-![useful image]({{ site.url }}../images/weather.jpg){:height="200px" width="900px"}  
+![weather]({{ site.url }}/images/weather.jpg){:height="200px" width="900px"}  
 
 Find the whole code [here](https://github.com/MrMauzy/Weather-Station)  
 ### This weather station project uses a Raspberry Pi, Grove Pi, JSON and a lot of different sensors.
@@ -42,11 +42,11 @@ Find the whole code [here](https://github.com/MrMauzy/Weather-Station)
 
 
 ## Algorithms
-![useful image]({{ site.url }}../images/dice.jpg){:height="200px" width="900px"}
+![dice]({{ site.url }}/images/dice.jpg){:height="200px" width="900px"}
 
 [here](https://github.com/MrMauzy/RPG-Magic)
 
 ## Databases
-![useful image]({{ site.url }}../images/data.jpeg){:height="200px" width="900px"}
+![binary]({{ site.url }}/images/data.jpeg){:height="200px" width="900px"}
 
 [here](https://github.com/MrMauzy/MongoDB-CRUD)
