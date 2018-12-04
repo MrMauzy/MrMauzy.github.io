@@ -6,9 +6,9 @@
 
 My main GitHub page can be found [here](https://github.com/mrmauzy).
 
-### What are you looking at??
+### What are you looking at? 
 
-What you are looking at is my portfolio that showcases the skills I have acquired though my journey into software development and the passion that I put into this field of study. Throughout my degree I have worked on many different projects and I have selected a few to put into my portfolio. I tried to stick with some core Computer Science topics such as Software Design and Engineering, Algorithms and Data Structures, and Databases and that will grow as time goes on. This work exemplifies a broad scope of what I have learned in my degree and I would like to go over how these projects have made me a more well-rounded software developer.  
+What you happen to be looking at is my portfolio, this showcases the skills I have acquired though my journey into software development and the passion that I put into this field of study. Throughout my degree I have worked on many different projects and I have selected a few to put into my portfolio. I tried to stick with some core Computer Science topics such as Software Design and Engineering, Algorithms and Data Structures, and Databases and that will grow as time goes on. This work exemplifies a broad scope of what I have learned in my degree and I would like to go over how these projects have made me a more well-rounded software developer.  
 
 ## Software Engineering Project
 ### Down below is a Python function for a weather station.
@@ -57,4 +57,4 @@ Find the whole code [here](https://github.com/MrMauzy/Weather-Station)
 ![useful image]({{ site.url }}/images/data.jpeg){:height="200px" width="900px"}
 
 ## Blog
-![useful image]({{ site.url }}/images/pen.jpeg){:height="200px" width="900px"}
+![useful image]({{ site.url }}/images/pen.jpg){:height="200px" width="900px"}
