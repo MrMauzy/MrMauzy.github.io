@@ -10,63 +10,15 @@ My main GitHub page can be found [here](https://github.com/mrmauzy).
 
 What you happen to be looking at is my portfolio, this showcases the skills I have acquired though my journey into software development and the passion that I put into this field of study. Throughout my degree I have worked on many different projects and I have selected a few to put into my portfolio. I tried to stick with some core Computer Science topics such as Software Design and Engineering, Algorithms and Data Structures, and Databases and that will grow as time goes on. This work exemplifies a broad scope of what I have learned in my degree and I would like to go over how these projects have made me a more well-rounded software developer.  
 
-## Software Engineering Project
-### Down below is a Python function for a weather station.
-![useful image]({{ site.url }}/images/weather.jpg){:height="200px" width="900px"}
-Find the whole code [here](https://github.com/MrMauzy/Weather-Station)
-### This weather station project uses a Raspberry Pi, Grove Pi, JSON and a lot of different sensors.
-### This was done for a class on Emerging System Architecture and Technology at SNHU.
-
-```
-        # If Light is on, records data
-        if resistance > threshold:
-            # Send HIGH to switch off LED
-            lights()
-        # If light is off, turns off and stop recording
-        else:
-            [temp, humidity] = dht(dht_sensor_port, dht_sensor_type)
-            # celsius to fahrenheit conversion
-            fahrenheit = (temp * 9/5) + 32
-            print(fahrenheit, humidity)
-            t = fahrenheit
-            h = humidity
-            # Send LOW to switch on LED depending on the Temp and humidity
-            if fahrenheit > 95:
-                grovepi.digitalWrite(RLed, 1)
-            elif (60 > fahrenheit < 85) and (humidity < 80):
-                grovepi.digitalWrite(GLed, 1)
-            elif (85 > fahrenheit < 95) and (humidity < 80):
-                grovepi.digitalWrite(BLed, 1)
-            elif humidity > 80:
-                grovepi.digitalWrite(GLed, 1)
-                grovepi.digitalWrite(BLed, 1)
-            else:
-                print("No Readings!")
-            # Sends data to the global array
-            outputData.append([t, h])
-
-```
-
-### This function will tell if a light is on (to simulate day time) and then record and display different LED's depending on what the temperature and humidity readings are. 
-
-
-## Algorithms
-![useful image]({{ site.url }}/images/dice.jpg){:height="200px" width="900px"}
-My main GitHub page can be found [here](https://github.com/mrmauzy).
-
-## Databases
-![useful image]({{ site.url }}/images/data.jpeg){:height="200px" width="900px"}
-My main GitHub page can be found [here](https://github.com/mrmauzy).
-
 ## Blog
 ![useful image]({{ site.url }}/images/pen.jpg){:height="200px" width="900px"}
-My main GitHub page can be found [here](https://github.com/mrmauzy/blog).
+My main GitHub page can be found [here](https://mrmauzy.github.io/blog).
 
 ## About
-My main GitHub page can be found [here](https://github.com/mrmauzy/about).
+My main GitHub page can be found [here](https://mrmauzy.github.io/about).
 
 ## Projects
-My main GitHub page can be found [here](https://github.com/mrmauzy/projects).
+My main GitHub page can be found [here](https://mrmauzy.github.io/projects).
 
 ## Resume
-My main GitHub page can be found [here](https://github.com/mrmauzy/cv).
+My main GitHub page can be found [here](https://mrmauzy.github.io/cv).
