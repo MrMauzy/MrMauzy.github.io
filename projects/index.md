@@ -2,7 +2,7 @@
 
 ## Software Engineering Project
 ### Down below is a Python function for a weather station.
-![useful image]({{ site.url }}/images/weather.jpg){:height="200px" width="900px"}
+![useful image]({{ site.url }}/images/weather.jpg){:height="200px" width="900px"}  
 Find the whole code [here](https://github.com/MrMauzy/Weather-Station)
 ### This weather station project uses a Raspberry Pi, Grove Pi, JSON and a lot of different sensors.
 ### This was done for a class on Emerging System Architecture and Technology at SNHU.
