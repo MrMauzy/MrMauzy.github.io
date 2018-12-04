@@ -12,7 +12,8 @@ What you are looking at is my portfolio that showcases the skills I have acquire
 
 ## Software Engineering Project
 ### Down below is a Python function for a weather station.
-### Find the whole code [here](https://github.com/MrMauzy/Weather-Station)
+![useful image]({{ site.url }}/images/weather.jpg){:height="200px" width="900px"}
+Find the whole code [here](https://github.com/MrMauzy/Weather-Station)
 ### This weather station project uses a Raspberry Pi, Grove Pi, JSON and a lot of different sensors.
 ### This was done for a class on Emerging System Architecture and Technology at SNHU.
 
@@ -47,3 +48,10 @@ What you are looking at is my portfolio that showcases the skills I have acquire
 ```
 
 ### This function will tell if a light is on (to simulate day time) and then record and display different LED's depending on what the temperature and humidity readings are. 
+
+
+## Algorithms
+![useful image]({{ site.url }}/images/dice.jpg){:height="200px" width="900px"}
+
+## Databases
+![useful image]({{ site.url }}/images/data.jpg){:height="200px" width="900px"}
