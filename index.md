@@ -51,7 +51,7 @@ Find the whole code [here](https://github.com/MrMauzy/Weather-Station)
 
 
 ## Algorithms
-![useful image]({{ site.url }}/images/dice.jpeg){:height="200px" width="900px"}
+![useful image]({{ site.url }}/images/dice.jpg){:height="200px" width="900px"}
 
 ## Databases
 ![useful image]({{ site.url }}/images/data.jpeg){:height="200px" width="900px"}
