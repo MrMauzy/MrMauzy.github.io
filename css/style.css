@@ -3,5 +3,5 @@
 
 @import "{{ site.theme }}";
 .nav {
-  background-color: white;
+  color: white;
  }
