@@ -52,9 +52,21 @@ Find the whole code [here](https://github.com/MrMauzy/Weather-Station)
 
 ## Algorithms
 ![useful image]({{ site.url }}/images/dice.jpg){:height="200px" width="900px"}
+My main GitHub page can be found [here](https://github.com/mrmauzy).
 
 ## Databases
 ![useful image]({{ site.url }}/images/data.jpeg){:height="200px" width="900px"}
+My main GitHub page can be found [here](https://github.com/mrmauzy).
 
 ## Blog
 ![useful image]({{ site.url }}/images/pen.jpg){:height="200px" width="900px"}
+My main GitHub page can be found [here](https://github.com/mrmauzy/blog).
+
+## About
+My main GitHub page can be found [here](https://github.com/mrmauzy/about).
+
+## Projects
+My main GitHub page can be found [here](https://github.com/mrmauzy/projects).
+
+## Resume
+My main GitHub page can be found [here](https://github.com/mrmauzy/cv).
