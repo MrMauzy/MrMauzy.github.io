@@ -2,7 +2,7 @@
 
 ![useful image]({{ site.url }}/images/cards.jpg){:height="300px" width="900px"}
 
-## My main GitHub page can be found [here](https://github.com/mrmauzy).
+My main GitHub page can be found [here](https://github.com/mrmauzy).
 
 ### What are you looking at??
 
