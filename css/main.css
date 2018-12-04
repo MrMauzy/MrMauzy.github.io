@@ -45,3 +45,6 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+ul#horizontal-list li {
+		display: inline;
+}
