@@ -55,3 +55,6 @@ Find the whole code [here](https://github.com/MrMauzy/Weather-Station)
 
 ## Databases
 ![useful image]({{ site.url }}/images/data.jpeg){:height="200px" width="900px"}
+
+## Blog
+![useful image]({{ site.url }}/images/pen.jpeg){:height="200px" width="900px"}
