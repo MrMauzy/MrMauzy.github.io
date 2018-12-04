@@ -2,7 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-.nav {
+p.nav {
   position:fixed;
   top: 0;
   left: 0;
