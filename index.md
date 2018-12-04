@@ -2,7 +2,7 @@
 ## I love creating art from 3D Animation to hand drawing cartoons, there is also a special place in my heart for mathematics, especially math used in games.  
 ## I fell in love with software development and I hope you stick around and see what I have made. This isn’t just a career choice for me, it is a passion.  
 
-![useful image]({{ site.url }}/images/cards.jpg){:height="200px" width="900px"}
+![useful image]({{ site.url }}/images/computer.jpg){:height="200px" width="900px"}
 
 My main GitHub page can be found [here](https://github.com/mrmauzy).
 
