@@ -1,12 +1,10 @@
-## Welcome to Matt Mauzy's GitHub Pages
+# Hello, I am a Computer Science Graduate based in Springfield, Missouri. I have always love creating art from 3D Animation to hand drawn cartoons. I fell in love with software development and I hope you stick around and see what I have made. 
 
-My main GitHub page can be found [here](https://github.com/mrmauzy).
+## My main GitHub page can be found [here](https://github.com/mrmauzy).
 
-### Little About Me
+### What are you looking at??
 
-My name is Matt Mauzy and I am originally from Cheyenne, Wyoming.  
-I have my Bachelor's in Computer Science with a minor in Applied Mathematics.  
-I attended Southern New Hampshire University and graduated at the end of 2018.  
+What you are looking at is my portfolio that showcases the skills I have acquired though my journey into software development and the passion that I put into this field of study. Throughout my degree I have worked on many different projects and I have selected a few to put into my portfolio. I tried to stick with some core Computer Science topics such as Software Design and Engineering, Algorithms and Data Structures, and Databases and that will grow as time goes on. This work exemplifies a broad scope of what I have learned in my degree and I would like to go over how these projects have made me a more well-rounded software developer.  
 
 ## Software Engineering Project
 ### Down below is a Python function for a weather station.
@@ -45,13 +43,3 @@ I attended Southern New Hampshire University and graduated at the end of 2018.
 ```
 
 ### This function will tell if a light is on (to simulate day time) and then record and display different LED's depending on what the temperature and humidity readings are. 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MrMauzy/MrMauzy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
