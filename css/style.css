@@ -2,9 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-.navigation {
+p.navigation {
   color: white;
  }
-p {
-  color:white;
-}
