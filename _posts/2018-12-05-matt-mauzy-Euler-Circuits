@@ -3,6 +3,7 @@ layout: post
 title: "Matt Mauzy, Computer Programmer, Euler's Circuits"
 date: 2018-12-05
 ---
+
 For my first real post I would like to talk about something near and dear to my heart, math (don’t run away just yet). To be more specific, Eulerian circuits or Eulerian cycles, which seems like a simple topic at first, but it really is interesting when you dig in. Eulerian circuits are a branch of graph theory where you have a finite graph, you pick a vertex and traverse the graph only visiting an edge and vertex once except for the vertex you started on, that one you will land on twice (As shown in the image below).   
 
 ![Euler Image]({{ site.url }}/images/Euler.png)  
