@@ -4,4 +4,5 @@
 @import "{{ site.theme }}";
 p.navigation {
   color: white;
+  background-color: black;
  }
