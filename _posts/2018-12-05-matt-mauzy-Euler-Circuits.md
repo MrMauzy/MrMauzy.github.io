@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Matt Mauzy, Computer Programmer, Euler's Circuits"
+title: "Matt Mauzy, Euler's Circuits"
 date: 2018-12-05
 ---
 
