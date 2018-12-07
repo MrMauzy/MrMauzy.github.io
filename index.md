@@ -2,7 +2,7 @@
 ## While working on my degree I have worked jobs from hardware/software repair to systems monitoring in a fully automated warehouse.  I love creating art from 3D Animation to hand drawing cartoons, there is also a special place in my heart for one of my favorite topics, mathematics.  
 ## I enjoy the challenge of learning new technologies and that is what brought me into the field of computer science. I pride myself on being a life-long learner and continue to grow and learn in this ever-changing field. I fell in love with software engineering and I hope you stick around and see what I have made. This isn’t just a career choice for me, it is a passion.  
 
-![useful image]({{ site.url }}/images/terminal.jpg){:height="200px" width="900px"}
+![useful image]({{ site.url }}/images/stormtrooper.jpg){:height="200px" width="900px"}
 
 My main GitHub page can be found [here](https://github.com/mrmauzy).
 
