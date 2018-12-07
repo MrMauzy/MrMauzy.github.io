@@ -11,7 +11,7 @@ My main GitHub page can be found [here](https://github.com/mrmauzy).
 Laid out before you I have the culmination of my experience gained from my degree program, hobbies and things I have picked up in my career. Currently I am working as a computer programmer for an insurance company that holds high standards in its products and highly regards exceptional team work. I work on a team of 5 that is charge of home and auto rate changes for the whole United States. We work closely to accomplish this goal through high levels of collaboration in a team environment while communicating our progress to the stakeholders throughout our progress.    
 
 <figure>
-    <img src="{{ site.url }}/images/family.jpg" width="500" height="400" alt="My Family" />
+    <img src="{{ site.url }}/images/family.jpg" alt="My Family" />
     <figcaption>This is my beautiful children and I enjoying a baseball game.</figcaption>
 </figure>
 
