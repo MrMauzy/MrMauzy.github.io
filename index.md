@@ -10,6 +10,7 @@ My main GitHub page can be found [here](https://github.com/mrmauzy).
 
 Laid out before you I have the culmination of my experience gained from my degree program, hobbies and things I have picked up in my career. Currently I am working as a computer programmer for an insurance company that holds high standards in its products and highly regards exceptional team work. I work on a team of 5 that is charge of home and auto rate changes for the whole United States. We work closely to accomplish this goal through high levels of collaboration in a team environment while communicating our progress to the stakeholders throughout our progress.    
 
+![My kids]({{ site.url }}/images/family.jpg)
 
 ## Weather Station  
 
@@ -27,7 +28,7 @@ This is a basic database program that uses MongoDB and python to Create, Read, U
 
 When I started down my path of becoming a software developer I had no idea what I was in for. I decided to start a blog since there was no end to the topics that interest me, and I love researching and putting what I learned into words. If you find computer science, math or other random topics, please check out my blog!  
 
-![useful image]({{ site.url }}/images/pen.jpg){:height="200px" width="900px"}
+![pen]({{ site.url }}/images/pen.jpg){:height="200px" width="900px"}
 
 Enter my blog [here](https://mrmauzy.github.io/blog).
 
