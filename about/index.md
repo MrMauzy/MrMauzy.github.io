@@ -1,5 +1,11 @@
 ## Welcome to where you can learn about Matt Mauzy.
 
+<figure align="center">
+    <img src="{{ site.url }}/images/Me.jpg" alt="My Wife"/>
+    <figcaption>This is me.</figcaption>
+</figure>
+
+lalala
 
 <figure align="center">
     <img src="{{ site.url }}/images/wife.jpg" alt="My Wife"/>
