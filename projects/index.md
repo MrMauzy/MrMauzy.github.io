@@ -8,6 +8,8 @@ Find the whole code [here](https://github.com/MrMauzy/Weather-Station)
 ### This weather station project uses a Raspberry Pi, Grove Pi, JSON and a lot of different sensors.
 ### This was done for a class on Emerging System Architecture and Technology at SNHU.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-EyROAOU5D4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ```
         # If Light is on, records data
         if resistance > threshold:
