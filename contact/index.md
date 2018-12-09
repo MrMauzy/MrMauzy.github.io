@@ -1,5 +1,5 @@
 <div class="container">
-  <form action="php/action_page.php" method="post">
+  <form name="input" method="POST" action="https://formspree.io/mauzycreations@gmail.com">
 
     <label for="fname">First Name</label>
     <input type="text" id="fname" name="firstname" placeholder="Your name..">
