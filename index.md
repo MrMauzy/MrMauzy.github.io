@@ -1,4 +1,4 @@
-<h1 align="center">Hello</>  
+<h1 align="center">Hello</h1>  
 
 Welcome, my name is Matt Mauzy, I am a reliable and highly detailed-oriented individual that wants to further my career in software engineering. I am a Computer Science Graduate, with a minor in Applied Mathematics, and an associate degree in computer networking with at least 7 years’ experience in the IT field.  
 While working on my degree I have worked jobs from hardware/software repair to systems monitoring in a fully automated warehouse.  I love creating art from 3D Animation to hand drawing cartoons, there is also a special place in my heart for one of my favorite topics, mathematics.  
