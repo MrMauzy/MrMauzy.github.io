@@ -1,12 +1,14 @@
 <h1 align="center">Hello</h1>  
 
+![StormTrooper]({{ site.url }}/images/stormtrooper.jpg){:height="300px" width="900px"}  
+
 Welcome, my name is Matt Mauzy, I am a reliable and highly detailed-oriented individual who wants to further my career in software engineering. I am a Computer Science Graduate, with a minor in Applied Mathematics, as well as an Associate's degree in computer networking, and 7 years’ experience in the IT field.  
 
 While working on my degree I have worked jobs ranging from hardware/software repair to systems monitoring in a fully automated warehouse.  I love creating art from 3D Animation to hand drawing cartoons, there is also a special place in my heart for one of my favorite topics, mathematics.  
 
 I enjoy the challenge of learning new technologies, which is what brought me into the field of computer science. I pride myself on being a life-long learner and hope to continue growing and learning in this ever-changing field. I fell in love with software engineering and I hope you stick around to see what I have made. This isn’t just a career choice for me, it is (truly) my passion.  
 
-![StormTrooper]({{ site.url }}/images/stormtrooper.jpg){:height="300px" width="900px"}
+![StormTrooper]({{ site.url }}/images/tools.jpg){:height="200px" width="900px"}
 
 My main GitHub page can be found [here](https://github.com/mrmauzy).
 
