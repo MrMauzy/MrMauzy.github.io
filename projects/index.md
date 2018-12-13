@@ -59,8 +59,7 @@ Find the repository [here](https://github.com/MrMauzy/RPG-Magic)
 ### Here is a small snippet of the code  
 Find the whole repository [here](https://github.com/MrMauzy/MongoDB-CRUD).
 
-'''
-
+```
 def update_document(p1, p2, p3, p4):
     if (collection.find_one({p1: p2})) is not None:
         print("Original Document:\n")
@@ -75,9 +74,8 @@ def update_document(p1, p2, p3, p4):
         print("Changed to:\n")
         pprint.pprint(collection.find_one({p1: p2}))
     else:
-        print("No Documents Found to Update")
-        
-'''
+        print("No Documents Found to Update")       
+```
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is the program I selected to show my work with databases. Most of my knowledge and experience was in SQL based databases and queries, I chose this one because it was something new to me and one I really enjoyed completing. This was done in MongoDB, which is an opensource database program that uses no SQL. I found it interesting that MongoDB is horizontally scalable unlike SQL with is vertically scalable. This means in MongoDB you can have multiple entities connected and acting as one logical unit, instead of the normal model where you add more resources like RAM.  
 
