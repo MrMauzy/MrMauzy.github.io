@@ -9,6 +9,10 @@ as cool designs on album covers or famous artwork, but it is so much more. I lov
 around you and fractals is one that makes it easy for us. Fractals are basically a never-ending pattern that looks the same if you zoom in 
 or out of the object in question. Here is a picture of an example.  
 
+<p align="center">
+    <img src="{{ site.url }}/images/blog/fractal.jpg" alt="Fractal"/>
+</p>
+
 These designs are created by duplicating the same simple pattern over and over and these patterns are seen all over nature. These designs 
 look very complicated but, it is driven by simplicity, some of the most beautiful and complex fractals are just a simplistic pattern that 
 is duplicated over and over. The interesting thig is these designs are very efficient and very prevalent in nature. These designs can be 
