@@ -1,3 +1,9 @@
+---
+layout: post  
+titel: "Fractals in Nature"
+date: 2018-12-13
+---
+
 Now, I would love to talk to you about fractals that are found in nature and why I find them so interesting. Most people think of fractals 
 as cool designs on album covers or famous artwork, but it is so much more. I love any kind of math that you can apply and see in the world 
 around you and fractals is one that makes it easy for us. Fractals are basically a never-ending pattern that looks the same if you zoom in 
