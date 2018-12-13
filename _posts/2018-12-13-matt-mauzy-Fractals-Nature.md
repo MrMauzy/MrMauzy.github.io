@@ -20,7 +20,7 @@ found in some vegetables, snowflakes, our cardiovascular system, electricity dis
 helps maximizes sunlight, in our own body it helps oxygen get transported though our bodies.  
 
 <p align="center">
-    <img src="{{ site.url }}/images/blog/electric.jpg" alt="Fractal"/>
+    <img src="{{ site.url }}/images/blog/electric.jpg" alt="Electric Burn in Plexi Glass"/>
 </p>
 
 Here is a picture of electricity that was released and burned into plexiglass, it was explained as bottled lightening from the site I found 
