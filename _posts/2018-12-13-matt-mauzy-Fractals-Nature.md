@@ -19,6 +19,10 @@ is duplicated over and over. The interesting thig is these designs are very effi
 found in some vegetables, snowflakes, our cardiovascular system, electricity dispersion, and even river formations. In plants this design 
 helps maximizes sunlight, in our own body it helps oxygen get transported though our bodies.  
 
+<p align="center">
+    <img src="{{ site.url }}/images/blog/electric.jpg" alt="Fractal"/>
+</p>
+
 Here is a picture of electricity that was released and burned into plexiglass, it was explained as bottled lightening from the site I found 
 this picture. There is a whole art form where people run electricity through wood between two pegs and it creates fractal art, I put a link down below.  
 
@@ -31,7 +35,7 @@ from its DNA. When you want to learn more about a tree or any complicated struct
 pieces and see why one-part sprouts branches and one leaves and so on. The world is an amazing place and only when you truly break it down 
 can you understand how it really works. Maybe that is why I love math so much.  
 
-References  
+### References  
 Gunther, Shea (April 24th, 2013) 14 Amazing Fractals Found in Nature. Retrieved from https://www.mnn.com/earth-matters/wilderness-resources/blogs/14-amazing-fractals-found-in-nature  
 https://www.fractalburn.com/  
 
