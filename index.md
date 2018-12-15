@@ -1,4 +1,4 @@
-<h1 align="center">Hello</h1>  
+<h1 align="center">Hello There</h1>  
 
 ![StormTrooper]({{ site.url }}/images/stormtrooper.jpg){:height="300px" width="900px"}  
 
