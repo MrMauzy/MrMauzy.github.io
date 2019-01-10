@@ -18,4 +18,8 @@ date: 2019-01-10
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This type of Machine Learning is the most interesting to me. Here we take a set of inputs with no corresponding outputs, such as a random selection of student’s GPA’s and how many hours they read a week. The goal of this model is to find the underlying structure or distribution of the data to learn more about it. This is called unsupervised because there is no right or wrong answer. Whatever algorithm is used will take the data and either cluster it, meaning that it will group the data such as customers and the type of shows they like to watch so they know what to recommend. Or it will group them by association where it can discover rules that can relate to large portions of your data. Such as when person X buys a product they are more likely to buy Y.  
 
+<figure align="center">
+    <img src="{{ site.url }}/images/blog/2019/learn.jpeg" alt="Learn Scrabble"/>
+</figure>  
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This is a very basic break down of two types of machine learning and I am hoping as the weeks progress to dig deeper to grow my knowledge in this field. I get excited when I learn a new topic and I hope as a reader you can at least get something out of my ramblings and I hope you come back. This blog will be used to keep me growing and learning because you know what they say, ‘if you aren’t growing you are dying!’  
