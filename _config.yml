@@ -1,3 +1,6 @@
 name: Matt Mauzy, Programmer
 permalink: /blog/:year/:month/:day/:title
 theme: jekyll-theme-cayman
+
+# Google Analytics
+google_analytics: UA-132327063-1
