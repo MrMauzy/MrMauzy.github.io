@@ -32,7 +32,7 @@ This is a basic database program that uses MongoDB and python to Create, Read, U
 
 ## Blog  
 
-When I started down my path of becoming a software developer I had no idea what I was in for. I decided to start a blog, because there was no end to the topics that interest me, I love researching and putting what I learned into words. If you find interest in computer science, math or other random topics, please check out my blog!  
+When I started down my path of becoming a software developer I had no idea what I was in for. I decided to start a blog, because there was no end to the topics that interest me, I love researching and putting what I learned into words. If you find interest in computer science, math or other random topics, please check out my blog witht he link below!  
 
 ![pen]({{ site.url }}/images/map.jpg){:height="200px" width="900px"}
 
