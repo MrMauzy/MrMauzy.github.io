@@ -10,7 +10,6 @@ title: Mr. Mauzy's Blog
     <div class="card">
       <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
       <h5><span>{{ post.date | date_to_string }}</span></h5>
-      <div class="fakeimg" style="height:200px;">Image</div>
 	    <p>{{post.content}}</p>
     </div>
 	{% endfor %}
