@@ -3,9 +3,11 @@ layout: default
 title: Mr. Mauzy's Blog
 ---
 
-	<div class="posts">
+<center>	
+<div class="posts">
 	  <h1>{{ page.title }}</h1>
 	</div>
+</center>
 	{% for post in site.posts %}
     <div class="card">
       <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
