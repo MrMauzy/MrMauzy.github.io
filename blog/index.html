@@ -13,10 +13,13 @@ title: Mr. Mauzy's Blog
     <img src="{{ site.url }}/images/blog/2019/type.jpg" alt="Type"/>
 </p> 
 
-	{% for post in site.posts limit:10 %}
-    <div class="card">
-      <h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
-      <h5><span>{{ post.date | date_to_string }}</span></h5>
-	    <p>{{post.content}}</p>
-    </div>
-	{% endfor %}	
+{% for post in site.posts limit:10 %}
+<article>
+	<div class="card">
+	<h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
+	<h5><span>{{ post.date | date_to_string }}</span></h5>
+	<p>{{post.content | truncatewords:40}}</p>
+	<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+	</div>
+</article>
+{% endfor %}	
