@@ -18,7 +18,7 @@ title: Mr. Mauzy's Blog
 	<div class="card">
 	<h2><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></h2>
 	<h5><span>{{ post.date | date_to_string }}</span></h5>
-	<p>{{post.content | truncatewords:40}}</p>
+	<p>{{post.content | truncatewords:100}}</p>
 	<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
 	</div>
 </article>
