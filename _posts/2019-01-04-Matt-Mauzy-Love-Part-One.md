@@ -1,13 +1,7 @@
 ---
 title: "Matt Mauzy, My Love"
-author:mrmauzy
 layout: post
-permalink: /My-Love/
 date: 2019-01-04
-dsq_thread_id:
-  - 01
-categories:
-  - Tech
 ---
 
 <h1 align="center">Why I love What I love</h1>  
