@@ -21,3 +21,7 @@ When I started down my path of becoming a software developer I had no idea what 
 ![pen]({{ site.url }}/images/map.jpg){:height="200px" width="900px"}
 
 Enter my blog [here](https://mrmauzy.github.io/blog).
+
+## Have something to say??
+
+Want to talk about art or computer programming, or many other various topics? Well shoot me a message [here](https://mrmauzy.github.io/contact/).
