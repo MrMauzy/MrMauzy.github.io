@@ -5,13 +5,13 @@
 ### Down below is a Python function for a weather station. 
 ![weather]({{ site.url }}/images/weather.jpeg){:height="200px" width="900px"}  
  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This project is a weather station built with python with the help of a Raspberry Pi, a Grove Pi, 3 LED sensors, a light sensor and a temperature and humidity sensor. This was the final project for Emerging Systems Architectures & Technologies at SNHU. This program takes temperature and humidity readings every 30 minutes, only when the lights are on. This is to simulate day time, in the requirements they did not want to take any readings at night. Then depending on what the temperature and humidity is, it will have a different color LED on to show a range of values. The values then get stored in a JSON file on the local machine. For this project I also wrote a webpage to take these values and display them in a graph. I created this project in October 2018 for a class in Emerging System Architecture and Technology for Southern New Hampshire University. Below is a video made for the class where I am talking about the code review process and the changes that I eventually made to the project.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This project is a weather station built with python with the help of a Raspberry Pi, a Grove Pi, 3 LED sensors, a light sensor and a temperature and humidity sensor. This was the final project for Emerging Systems Architectures & Technologies at SNHU. This program takes temperature and humidity readings every 30 minutes, only when the lights are on. This is to simulate day time, in the requirements they did not want to take any readings at night. Then depending on what the temperature and humidity is, it will have a different color LED on to show a range of values. The values then get stored in a JSON file on the local machine. For this project I also wrote a webpage to take these values and display them in a graph. I created this project in October 2018 for a class in Emerging System Architecture and Technology for Southern New Hampshire University. Below is a video I made for my class, I am talking about the code review process and the changes that I eventually made to the project.  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-EyROAOU5D4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the development of this project, I used python, JavaScript, JSON, HTML, Grove Pi, Raspberry Pi, and all the sensors and external devices to get this project to work. This is a fully functional program that shows that I can create a software development project and I think the project shows that. I improved this project by just tiding it up. I followed pythons coding standards and put everything inline. I also got rid of old testing statements and repeated code that could be put in a single function.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In the development of this project, I used python, JavaScript, JSON, HTML, Grove Pi, Raspberry Pi, and all the sensors and external devices to get this project to work. This is a fully functional program that shows a software development project. I improved this project by just tiding it up. I followed Python coding standards and put everything inline. I also got rid of old testing statements and repeated code that could be put in a single function.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; In this project I learned how important code review is. I went through this project line by line looking for every little thing I could. Is it perfect? Probably not, but I still want to shoot for that. That is why code review is important. It makes you look at these artifacts piece by piece and tear it apart. This not only makes the work better but how you process and think about your code which is an invaluable skill. When you write code, you think it is perfect and being able to step back and try to look at it as if it is someone else’s code is not easy but something we must do. I am the type of person that loves constructive criticism because I will never stop learning and growing. So, if you see something that needs changed or have an idea, please use the [Contact Me]( https://mrmauzy.github.io/contact/) section and shoot me a message!  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This project was great and showed how important code review is. I went through this project line by line looking for every little thing I could. Is it perfect? Probably not, but I still want to shoot for that. That is why code review is important and something I really enjoy. I love constructive critisim and having somewhere else show me where I can make my project flow or just over all improvements is awesome. When you write code, you think it is perfect and being able to step back and try to look at it as if it is someone else’s code is not easy but something we must do. So, if you see something that needs changed or have an idea, please use the [Contact Me]( https://mrmauzy.github.io/contact/) section and shoot me a message!  
 
 Here is a snippet of the code after the changes were made. This shows the different requirements needed to have each LED on or off.  
 
@@ -49,17 +49,17 @@ Here is a snippet of the code after the changes were made. This shows the differ
 Find the repository [here](https://github.com/MrMauzy/Weather-Station)  
 
 ## C# RPG
-![Home Screen]({{ site.url }}/images/Projects/RPG01.PNG)
+![Home Screen]({{ site.url }}/images/Projects/RPG01.PNG){:height="200px" width="900px"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This artifact was one I started to help me learn C#. This is a text-based RPG with a GUI, using WPF, XAML, and C#. Up above is a screen shot of the starting screen for the game. This is based off a tutorial series by Scott Lilley found here (https://scottlilly.com/build-a-cwpf-rpg/). I started this whole project in the beginning of September and I continue to work on it whenever the time allows me to. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This artifact was one I started to help down the road of learning C#. This is a text-based RPG with a GUI, using WPF, XAML, and C#. Up above is a screen shot of the starting screen for the game, where you wake up confused in an open prison cell. This is based off a tutorial series by Scott Lilley found [here](https://scottlilly.com/build-a-cwpf-rpg/). I started this whole project in the beginning of September and I continue to work on it whenever the time allows me to. 
 
-![Screen from Game]({{ site.url }}/images/Projects/RPG02.PNG)
+![Screen from Game]({{ site.url }}/images/Projects/RPG02.PNG){:height="200px" width="900px"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Above is another screen grab. This one shows the weapons inventory and even one of the cartoons I have drawn for this game. I am planning on drawing all the enemies and traders in the game and giving it a more cartoon feel. Below is a picture showing how the trader mechanic works in my game. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Above is another screen grab. This one shows the weapons inventory and even one of the cartoons I have drawn for this game (the worried crocodile). I am planning on drawing all the enemies and traders in the game and giving it a more cartoon feel. Below is a picture showing how the trader mechanic works in my game. If time allows I would live to do all the art in the game but I am worrying more about the programming side of things at the moment. 
 
-![Trader Screen]({{ site.url }}/images/Projects/Trader.PNG)
+![Trader Screen]({{ site.url }}/images/Projects/Trader.PNG){:height="200px" width="900px"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This has been a fun (and sometime frustrating) project that I continue to grow and change. It has everything I love in programming in one project. From the layout design to the problem solving that come with trying to implement your own ideas into a game of your own. I hope you enjoy it and come back when it is finished!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This has been a fun (and sometime frustrating) project that I continue to grow and change almost never ending. That might just be my OCD, but there is always something that is never 'just right.' It has everything I love in programming in one project. From the layout design to the problem solving that comes with trying to implement your own ideas into a game of your own. I hope you enjoy it and come back when it is finished, maybe even try to escape the prison!
 
 Below I added just a snippet of the magic attack function.  
 
@@ -94,7 +94,7 @@ Below I added just a snippet of the magic attack function.
 Find the repository [here](https://github.com/MrMauzy/RPG-Magic)
 
 ## Java Book Tracker
-![Book Tracker]({{ site.url }}/images/Projects/MainProgram.PNG)
+![Book Tracker]({{ site.url }}/images/Projects/MainProgram.PNG){:height="200px" width="900px"}
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This was a project I built to help me keep track of the many books I read throughout my search for truth. Up above is a screen shot of the program with some examples listed to the right hand side. This program was written in Java with Swing, which is a GUI widget tool for Java. This program was a great learning experience and one I hope to improve on very soon. 
 
@@ -105,6 +105,4 @@ Find the repository [here](https://github.com/MrMauzy/RPG-Magic)
 
 Find the whole repository [here](https://github.com/MrMauzy/Java-Swing-BookTracker).  
 
-## That's a Wrap
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well that was some of my work and i hope you enjoyed it. I hope you come back and see what I will be working on next, I would give some hints but I don't like spoilers. All of my work can be found [here](https://github.com/MrMauzy) and hope to see you soon! 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well that was some of my work and i hope you enjoyed it. I hope you come back and see what I will be working on next, I would give some hints but I don't like spoilers. All of my work can be found [here] (https://github.com/MrMauzy) and hope to see you soon! 
