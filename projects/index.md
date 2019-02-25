@@ -105,4 +105,6 @@ Find the repository [here](https://github.com/MrMauzy/RPG-Magic)
 
 Find the whole repository [here](https://github.com/MrMauzy/Java-Swing-BookTracker).  
 
+## That's a Wrap
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Well that was some of my work and i hope you enjoyed it. I hope you come back and see what I will be working on next, I would give some hints but I don't like spoilers. All of my work can be found [here](https://github.com/MrMauzy) and hope to see you soon! 
