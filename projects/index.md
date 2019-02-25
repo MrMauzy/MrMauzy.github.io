@@ -49,15 +49,15 @@ Here is a snippet of the code after the changes were made. This shows the differ
 Find the repository [here](https://github.com/MrMauzy/Weather-Station)  
 
 ## C# RPG
-![Home Screen]({{ site.url }}/images/Projects/RPG01.PNG){:height="200px" width="900px"}
+![Home Screen]({{ site.url }}/images/Projects/RPG01.PNG)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This artifact was one I started to help me learn C#. This is a text-based RPG with a GUI, using WPF, XAML, and C#. Up above is a screen shot of the starting screen for the game. This is based off a tutorial series by Scott Lilley found here (https://scottlilly.com/build-a-cwpf-rpg/). I started this whole project in the beginning of September and I continue to work on it whenever the time allows me to. 
 
-![Screen from Game]({{ site.url }}/images/Projects/RPG02.PNG){:height="200px" width="900px"}
+![Screen from Game]({{ site.url }}/images/Projects/RPG02.PNG)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Above is another screen grab. This one shows the weapons inventory and even one of the cartoons I have drawn for this game. I am planning on drawing all the enemies and traders in the game and giving it a more cartoon feel. Below is a picture showing how the trader mechanic works in my game. 
 
-![Trader Screen]({{ site.url }}/images/Projects/Trader.PNG){:height="200px" width="900px"}
+![Trader Screen]({{ site.url }}/images/Projects/Trader.PNG)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This has been a fun (and sometime frustrating) project that I continue to grow and change. It has everything I love in programming in one project. From the layout design to the problem solving that come with trying to implement your own ideas into a game of your own. I hope you enjoy it and come back when it is finished!
 
@@ -94,7 +94,7 @@ Below I added just a snippet of the magic attack function.
 Find the repository [here](https://github.com/MrMauzy/RPG-Magic)
 
 ## Java Book Tracker
-![Book Tracker]({{ site.url }}/images/Projects/MainProgram.PNG){:height="200px" width="900px"}
+![Book Tracker]({{ site.url }}/images/Projects/MainProgram.PNG)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; This was a project I built to help me keep track of the many books I read throughout my search for truth. Up above is a screen shot of the program with some examples listed to the right hand side. This program was written in Java with Swing, which is a GUI widget tool for Java. This program was a great learning experience and one I hope to improve on very soon. 
 
