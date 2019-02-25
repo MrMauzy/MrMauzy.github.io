@@ -1,6 +1,6 @@
 ## Software Engineering Project
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome, to my projects page. Down below I have a few different projects that i have worked on, with a few various languages. This is a work in progress so please stop by again to see what I am working on. Have any questions or ides you would like to share? If so please contact me [here]( https://mrmauzy.github.io/contact/).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Welcome, to my projects page. Down below I have a few different projects that I have worked on, in a few various languages. This is a work in progress so please stop by again to see what I am working on. Have any questions or ideas you would like to share? If so please contact me [here]( https://mrmauzy.github.io/contact/).
 
 ### Down below is a Python function for a weather station. 
 ![weather]({{ site.url }}/images/weather.jpeg){:height="200px" width="900px"}  
