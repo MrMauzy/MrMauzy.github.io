@@ -1,10 +1,10 @@
 ![StormTrooper]({{ site.url }}/images/stormtrooper.jpg){:height="300px" width="900px"}  
 
-Welcome, my name is Matt Mauzy, I am a reliable and highly detailed-oriented individual who loves software engineering. I am a Computer Science Graduate, with a minor in Applied Mathematics and 7 years’ experience in the IT field.  
+Welcome, my name is Matt Mauzy and thank you for visiting my page. I am a Computer Science Graduate, with a minor in Applied Mathematics and 7 years’ experience in the IT field. I am currently a computer programmer that is spending most of my time learning Data Science. Being able to dig meaningful information out of data is something I find very interesting and would love to continue my career in this field.  
 
 While working on my degree I have worked jobs ranging from hardware/software repair to systems monitoring in a fully automated warehouse.  I love art, creating and consuming. I dabble in cartoon drawing, which can be seen in some of the projects I has listed in my [projects]( https://mrmauzy.github.io/projects/) tab. 
 
-I enjoy the challenge of learning new technologies, which is what brought me into the world of computer science. I pride myself on being a life-long learner and hope to continue growing and learning in this ever-changing field. I fell in love with software engineering and I hope you stick around to see what I have made. 
+I enjoy the challenge of learning new technologies, which is what brought me into the world of computer science. I pride myself on being a life-long learner and hope to continue growing and learning in this ever-changing field. I fell in love with software engineering and I hope you stick around to see what I have made.  
 
 ![Tools]({{ site.url }}/images/tools.jpg){:height="200px" width="900px"}
 
@@ -16,7 +16,7 @@ Laid out before you I have the culmination of my experience gained from my degre
 
 ## Blog  
 
-When I started down my path of becoming a software developer I had no idea what I was in for. I decided to start a blog, because there was no end to the topics that interest me, I love researching and putting what I learned into words. If you find interest in computer science, math or other random topics, please check out my blog witht he link below!  
+When I started down my path of becoming a software developer I had no idea what I was in for. I decided to start a blog, because there was no end to the topics that interest me, I love researching and putting what I learned into words. If you find interest in computer science, math or other random topics, please check out my blog with the link below!  
 
 ![pen]({{ site.url }}/images/map.jpg){:height="200px" width="900px"}
 
@@ -24,4 +24,4 @@ Enter my blog [here](https://mrmauzy.github.io/blog).
 
 ## Have something to say??
 
-Want to talk about art or computer programming, or many other various topics? Well shoot me a message [here](https://mrmauzy.github.io/contact/).
+Want to talk about art or computer programming, data science, or many other various topics? Well shoot me a message [here](https://mrmauzy.github.io/contact/).
