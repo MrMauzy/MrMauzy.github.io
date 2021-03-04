@@ -1,10 +1,8 @@
 ![StormTrooper]({{ site.url }}/images/stormtrooper.jpg){:height="300px" width="900px"}  
 
-Welcome, my name is Matt Mauzy and thank you for visiting my page. I am a Computer Science Graduate, with a minor in Applied Mathematics and 7 years’ experience in the IT field. I am currently a computer programmer that is spending most of my time learning Data Science. Being able to dig meaningful information out of data is something I find very interesting and would love to continue my career in this field.  
+Welcome, my name is Matt Mauzy, well not really, I am just a webpage, but you get the point. Currently I have a Master’s Degree in Data Analytics, Bachelors in Computer Science, Minor in Applied Mathematics and have been in the IT field for about 7 years. In those 7 years I started on a help desk fixing computer software issues, then went into software development and from there I am working on a data warehouse team doing ETL work in SQL. If you would like you could check out some of my projects that I have worked on in my [projects]( https://mrmauzy.github.io/projects/) tab. I am currently working on updating this with my current data science projects so stay tuned!
 
-While working on my degree I have worked jobs ranging from hardware/software repair to systems monitoring in a fully automated warehouse.  I love art, creating and consuming. I dabble in cartoon drawing, which can be seen in some of the projects I has listed in my [projects]( https://mrmauzy.github.io/projects/) tab. 
-
-I enjoy the challenge of learning new technologies, which is what brought me into the world of computer science. I pride myself on being a life-long learner and hope to continue growing and learning in this ever-changing field. I fell in love with software engineering and I hope you stick around to see what I have made.  
+I enjoy the challenge of learning new technologies, which is what brought me into the world of data science. I pride myself on being a life-long learner and hope to continue growing and learning in this ever-changing field. I fell in love with data science and I hope you stick around to see what I have made.  
 
 ![Tools]({{ site.url }}/images/tools.jpg){:height="200px" width="900px"}
 
@@ -12,7 +10,7 @@ My main GitHub page can be found [here](https://github.com/mrmauzy).
 
 ### What are you looking at? 
 
-Laid out before you I have the culmination of my experience gained from my degree program, hobbies and things I have picked up during my career. Currently I am working as a computer programmer for an insurance company which holds high standards in its products, and highly regards exceptional team work. I work on a team of 4, and we are in charge of home and auto rate changes for the whole United States. We work closely with one another in order to accomplish this goal through high levels of collaboration in a team environment, all the while communicating our progress to the stakeholders throughout our process.    
+Laid out before you I have the culmination of my experience gained from my degree program, hobbies and things I have picked up during my career. Currently I am working as a computer programmer doing data warehouse ETL for an insurance company which holds high standards in its products, and highly regards exceptional team work. I work on a team of 5, and we are in charge of pulling and cleaning data for all of our lines of business. We work closely with one another in order to accomplish this goal through high levels of collaboration in a team environment, all the while communicating our progress to the stakeholders throughout our process.    
 
 ## Blog  
 
